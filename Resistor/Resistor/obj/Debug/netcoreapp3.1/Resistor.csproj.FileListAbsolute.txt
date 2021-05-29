@@ -1,0 +1,15 @@
+C:\Users\Yang\source\repos\Resistor\Resistor\bin\Debug\netcoreapp3.1\Resistor.exe
+C:\Users\Yang\source\repos\Resistor\Resistor\bin\Debug\netcoreapp3.1\Resistor.deps.json
+C:\Users\Yang\source\repos\Resistor\Resistor\bin\Debug\netcoreapp3.1\Resistor.runtimeconfig.json
+C:\Users\Yang\source\repos\Resistor\Resistor\bin\Debug\netcoreapp3.1\Resistor.runtimeconfig.dev.json
+C:\Users\Yang\source\repos\Resistor\Resistor\bin\Debug\netcoreapp3.1\Resistor.dll
+C:\Users\Yang\source\repos\Resistor\Resistor\bin\Debug\netcoreapp3.1\Resistor.pdb
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.csprojAssemblyReference.cache
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.Form1.resources
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.csproj.GenerateResource.cache
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.AssemblyInfoInputs.cache
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.AssemblyInfo.cs
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.csproj.CoreCompileInputs.cache
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.dll
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.pdb
+C:\Users\Yang\source\repos\Resistor\Resistor\obj\Debug\netcoreapp3.1\Resistor.genruntimeconfig.cache
