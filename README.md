@@ -9,3 +9,5 @@
 ## 展示
 
 ![image](https://github.com/Microfish31/Resistor_Calculator/blob/main/photo1.PNG)
+
+![image](https://github.com/Microfish31/Resistor_Calculator/blob/main/photo2.PNG)
